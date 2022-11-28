@@ -93,8 +93,8 @@
 - [Game Theory online 2](https://www.bilibili.com/video/BV1pk4y1R71R/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 
 **Last but not least, learn to find rescources of your own!!**
-<!---
 
+<!---
 [about](about.md)
 You can use the [editor on GitHub](https://github.com/yanshen0/shenyan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
