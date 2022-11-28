@@ -1,6 +1,19 @@
+<!---
 # Shen Yan
+--->
 
-### Welcome
+## Welcome
+
+### Resources for STEM self-learning group:
+#### Math
+
+
+#### Physics
+
+
+#### Computer Science
+
+
 <!---
 --->
 [about](about.md)
