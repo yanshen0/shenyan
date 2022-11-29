@@ -4,30 +4,53 @@
 
 
 # Resources for BHSFIC STEM self-learning group:
+This webpage contains links to books and lectures and other resources on Math/Physics/Computer Science that I deem approporite, or reasonably challenging for motivated high school students. Updated regularly by a math teacher at BHSFIC.
 ## Math
-**Books**: 
+**Textbooks on Calculus**: 
 - [MATH-A course of pure mathematics](https://pan.baidu.com/s/1W27aJDOGEp686yw442l2vg?pwd=cfyv)
+- [MATH-Calculus spivak.pdf](https://pan.baidu.com/s/1LH85kntZbZM7LsE8HADWcQ?pwd=vqx2)
+- [MATH-Princeton Lifesaver Study Guide-The Calculus Lifesaver_ All the Tools You Need to Excel at Calculus.pdf](https://pan.baidu.com/s/1nK8oyOkHkZleGBHmh7OiSA?pwd=1aua)
+- [MATH-Modeling Life. The Mathematics of Biological Systems.pdf](https://pan.baidu.com/s/1T9HezFReWzqx8OGVVWOxcA?pwd=mrek). Introduces how to use calculus to model biological systems.
+
+**Books that help you understand calculus:
+- [MATH-How to think about analysis.pdf](https://pan.baidu.com/s/1v9lgRlR2Gj1B1U87FwByBA?pwd=iwgi). This is a book explaining many concepts that you will encounter in calculus or mathematical analysis. It's not a textbook, and very easy to understand.
+- [MATH-The Calculus Gallery_ Masterpieces from Newton to Lebesgue.pdf](https://pan.baidu.com/s/1V53aW-gh30Mj_YByvSot0Q?pwd=y583). This is a book on the historical development of calculus and mathematical analysis.
+- [MATH-Infinite Powers How Calculus Reveals the Secrets of the Universe by Steven H. Strogatz.pdf](https://pan.baidu.com/s/1lxr6_YBuNi3q9VLAul_3_A?pwd=5fcs). This is a book on how calculus affect our everyday life.
+
+**Algebra and beyond**
+- [MATH-Discourses on Algebra by Igor R. Shafarevich.pdf](https://pan.baidu.com/s/1t5DB_PPjUEfo1mAvPwWI9A?pwd=9m3k).
+- [MATH-Numbers and Geometry.pdf](https://pan.baidu.com/s/147aiyNm2RhGheRr5hfB2Ug?pwd=ep4y).
+- [MATH-Elements of Algebra_Geometry, Numbers, Equations.pdf](https://pan.baidu.com/s/1Xhbg4r51gANx2lEaaT4UvQ?pwd=c24w).
+
+_Discourses on Algebra_ and _Numbers and Geometry_ are very similar: they both introduce high school algebra and prepare you for learning more advanced topics in algebra, such as field and ring. _Elements of Algebra_Geometry, Numbers, Equations_ is an amazing book on Galois theory built upon previous two books.
+
+**Linear Algebra**
+- [MATH-No Bullshit Guide to Linear Algebra.pdf](https://pan.baidu.com/s/1LbUqoGSUnSxNotKRNa7pdw?pwd=2y4a)
+
+**Probability**
+- [MATH-The Pleasures of Probability.pdf](https://pan.baidu.com/s/1dCIFMQNKxKgmueHXLvpF_Q?pwd=94ve). Introduces probability through fun examples.
+
+**A Mathematical Gift** 
+_A Mathematical Gift 1-3_ are based on a series of lectures developed by Kyoto University for local high school students in 1993-1994.
+
 - [MATH-A mathematical gift 1 interplay between topology, functions, geometry, and algebra.pdf](https://pan.baidu.com/s/1Z4hYF0iTpI59DK7q5GGoCA?pwd=cjeh)
 - [MATH-A mathematical gift 2 interplay between topology, functions, geometry, and algebra.pdf](https://pan.baidu.com/s/1INksWy-d9JN_jrgL6OUzCg?pwd=sz2b)
 - [MATH-A mathematical gift 3 interplay between topology, functions, geometry, and algebra.pdf](https://pan.baidu.com/s/1tE6BmsW76i_T0owhMR-oGQ?pwd=a52j)
+
+**An Excursion Through Elementary Mathematics**
+_An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathematics in advanced math language. They contain a lot of examples and exercises on all high school topics and beyond. Suitable for math competition.
+
 - [MATH-An Excursion through Elementary Mathematics, Vol.1 Real Numbers and Functions by Antonio Caminha Muniz Neto.pdf](https://pan.baidu.com/s/1BXguAXHzO9ARH_4a_e-5Rg?pwd=7g6m)
 - [MATH-An excursion through elementary mathematics, Vol.2 by Caminha Muniz Neto A.pdf](https://pan.baidu.com/s/1UTzKnG7FTOtUjOJTAdryLQ?pwd=vy29)
 - [MATH-An excursion through elementary mathematics, Vol.3 by Caminha Muniz Neto A.pdf](https://pan.baidu.com/s/18TusMeFoihMkXQjpAiswJQ?pwd=ir7m)
-- [MATH-Calculus spivak.pdf](https://pan.baidu.com/s/1LH85kntZbZM7LsE8HADWcQ?pwd=vqx2)
-- [MATH-Discourses on Algebra by Igor R. Shafarevich.pdf](https://pan.baidu.com/s/1t5DB_PPjUEfo1mAvPwWI9A?pwd=9m3k)
-- [MATH-Elements of Algebra_Geometry, Numbers, Equations.pdf](https://pan.baidu.com/s/1Xhbg4r51gANx2lEaaT4UvQ?pwd=c24w)
-- [MATH-Elements of Mathematics_ A Problem-Centered Approach to History and Foundations.pdf](https://pan.baidu.com/s/1DoQrIkCLFh_p_QR8HwzGbQ?pwd=3fkh)
-- [MATH-Elements of Mathematics_ From Euclid to Gödel.pdf](https://pan.baidu.com/s/1u65k21ZuBZgAJ4Y8YK-8VA?pwd=2una)
-- [MATH-How to think about analysis.pdf](https://pan.baidu.com/s/1v9lgRlR2Gj1B1U87FwByBA?pwd=iwgi)
-- [MATH-Infinite Powers How Calculus Reveals the Secrets of the Universe by Steven H. Strogatz.pdf](https://pan.baidu.com/s/1lxr6_YBuNi3q9VLAul_3_A?pwd=5fcs)
-- [MATH-Mathematical Proofs. A Transition to Advanced Mathematics.pdf](https://pan.baidu.com/s/1RqzYiLZUrayON7V-4ISU3A?pwd=mrj3)
-- [MATH-Mathematics and Its History_ A Concise Edition.pdf](https://pan.baidu.com/s/1ZuUmT5vKw1ODqaiERJ0QWA?pwd=jabd)
-- [MATH-Modeling Life. The Mathematics of Biological Systems.pdf](https://pan.baidu.com/s/1T9HezFReWzqx8OGVVWOxcA?pwd=mrek)
-- [MATH-No Bullshit Guide to Linear Algebra.pdf](https://pan.baidu.com/s/1LbUqoGSUnSxNotKRNa7pdw?pwd=2y4a)
-- [MATH-Numbers and Geometry.pdf](https://pan.baidu.com/s/147aiyNm2RhGheRr5hfB2Ug?pwd=ep4y)
-- [MATH-Princeton Lifesaver Study Guide-The Calculus Lifesaver_ All the Tools You Need to Excel at Calculus.pdf](https://pan.baidu.com/s/1nK8oyOkHkZleGBHmh7OiSA?pwd=1aua)
-- [MATH-The Calculus Gallery_ Masterpieces from Newton to Lebesgue.pdf](https://pan.baidu.com/s/1V53aW-gh30Mj_YByvSot0Q?pwd=y583)
-- [MATH-The Pleasures of Probability.pdf](https://pan.baidu.com/s/1dCIFMQNKxKgmueHXLvpF_Q?pwd=94ve)
+
+
+**Miscellaneous**
+- [MATH-Elements of Mathematics_ A Problem-Centered Approach to History and Foundations.pdf](https://pan.baidu.com/s/1DoQrIkCLFh_p_QR8HwzGbQ?pwd=3fkh). Introduces high school math topic from an advanced math perspective.
+- [MATH-Mathematical Proofs. A Transition to Advanced Mathematics.pdf](https://pan.baidu.com/s/1RqzYiLZUrayON7V-4ISU3A?pwd=mrj3). Introduces how to read and write mathematical proofs. Help you tansition from "lower math" to "higher math".
+- [MATH-Mathematics and Its History_ A Concise Edition.pdf](https://pan.baidu.com/s/1ZuUmT5vKw1ODqaiERJ0QWA?pwd=jabd). Introduces math history while still learning math. 
+- [MATH-Elements of Mathematics_ From Euclid to Gödel.pdf](https://pan.baidu.com/s/1u65k21ZuBZgAJ4Y8YK-8VA?pwd=2una). Introduces many areas of mathematics, fun to read.
+
 
 **Open Courses**
 - [MIT 18.01 Single Variable Calculus](https://www.bilibili.com/video/BV1mx411S7M3/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
