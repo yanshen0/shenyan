@@ -26,9 +26,11 @@ _Discourses on Algebra_ and _Numbers and Geometry_ are very similar: they both i
 
 **Linear Algebra**
 - [MATH-No Bullshit Guide to Linear Algebra.pdf](https://pan.baidu.com/s/1LbUqoGSUnSxNotKRNa7pdw?pwd=2y4a)
+- [MATH-Linear Algebra Done Right Sheldon Axler](https://pan.baidu.com/s/15p44HUIpxP3AiBRJUtdmEA?pwd=cq54)
 
 **Probability**
 - [MATH-The Pleasures of Probability.pdf](https://pan.baidu.com/s/1dCIFMQNKxKgmueHXLvpF_Q?pwd=94ve). Introduces probability through fun examples.
+- [A Collection of Dice Problems](https://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf). Fun probability problems involving dice.
 
 **A Mathematical Gift** 
 _A Mathematical Gift 1-3_ are based on a series of lectures developed by Kyoto University for local high school students in 1993-1994.
@@ -46,10 +48,14 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 
 
 **Miscellaneous**
+- [MATH-An introduction to the art of mathematical inequalities: the Cauchy-Schwartz master class](https://pan.baidu.com/s/1PI4k3KVaU1hIJbApIYmMLw?pwd=nyic).
+- [MATH-Inequalities Korovkin](https://pan.baidu.com/s/15M67OtalnRoTPCmKz_PzVw?pwd=26n2)
+- [MATH-Algebraic Inequalities New Vistas](https://pan.baidu.com/s/1Oh3ZDJQVOr68x6xYa_kkSA?pwd=u8i9)
 - [MATH-Elements of Mathematics_ A Problem-Centered Approach to History and Foundations.pdf](https://pan.baidu.com/s/1DoQrIkCLFh_p_QR8HwzGbQ?pwd=3fkh). Introduces high school math topic from an advanced math perspective.
 - [MATH-Mathematical Proofs. A Transition to Advanced Mathematics.pdf](https://pan.baidu.com/s/1RqzYiLZUrayON7V-4ISU3A?pwd=mrj3). Introduces how to read and write mathematical proofs. Help you tansition from "lower math" to "higher math".
 - [MATH-Mathematics and Its History_ A Concise Edition.pdf](https://pan.baidu.com/s/1ZuUmT5vKw1ODqaiERJ0QWA?pwd=jabd). Introduces math history while still learning math. 
 - [MATH-Elements of Mathematics_ From Euclid to Gödel.pdf](https://pan.baidu.com/s/1u65k21ZuBZgAJ4Y8YK-8VA?pwd=2una). Introduces many areas of mathematics, fun to read.
+- [MATH-An Infinitely Large Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf). This is a project by a math major at MIT, Evan Chen, aimed at making higher math accessible to high school students. Very comprehensive and advanced.
 
 
 **Open Courses**
@@ -57,6 +63,7 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 - [MIT 18.02 Multivariable Calculus](https://www.bilibili.com/video/BV1nt411d7bu/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Elementary Number Theory](https://www.bilibili.com/video/BV1VQ4y1D771/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 18.06 Linear Algebra](https://www.bilibili.com/video/BV1at411d79w/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Linear Algebra Done Right by Sheldon Axler](https://www.bilibili.com/video/BV1MW411h7ek/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Fat Chance: Probability from the Ground Up by Harvard and Edx](https://www.bilibili.com/video/BV1qs411A75n/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Harvard stat110 Probability](https://www.bilibili.com/video/BV1Cb4y1R7EG/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.bilibili.com/video/BV1fx411d7DX/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
@@ -85,17 +92,17 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 
 
 **Open Courses**
-- [MIT 8.01 mechanics](https://www.bilibili.com/video/BV147411o71v/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 8.01 Mechanics](https://www.bilibili.com/video/BV147411o71v/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.02 Electricity&Magnetism](https://www.bilibili.com/video/BV16m4y1w7P8/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
-- [MIT 8.01 mechanics Walter Lewin](https://www.bilibili.com/video/BV1ut411B7s6/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 8.01 Mechanics Walter Lewin](https://www.bilibili.com/video/BV1ut411B7s6/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.02 Electricity&Magnetism Walter Lewin](https://www.bilibili.com/video/BV1Z4411i7DM/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [ICTP Classical Mechanics](https://www.bilibili.com/video/BV1yL4y1G7xP/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Electrodynamics](https://www.bilibili.com/video/BV1tE411f7mP/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
-- [MIT 8.04, Quantum Physical I](https://www.bilibili.com/video/BV1dt411y72n/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 8.04, Quantum Physics I](https://www.bilibili.com/video/BV1dt411y72n/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.05, Quantum Physics II](https://www.bilibili.com/video/BV1at411r7VV/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
-- [MIT 8.06 Quantum Mechanics III](https://www.bilibili.com/video/BV15b411K7Fa/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 8.06 Quantum Physics III](https://www.bilibili.com/video/BV15b411K7Fa/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT Introduction to Special Relativity](https://www.bilibili.com/video/BV1Qg411K7aG/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
-- [MIT 8.962 general relativity](https://www.bilibili.com/video/BV14z4y1f7Eq/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 8.962 General Relativity](https://www.bilibili.com/video/BV14z4y1f7Eq/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.333 Statistical Mechanics I](https://www.bilibili.com/video/BV1z5411m7n5/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.334 Statistical Mechanics II](https://www.bilibili.com/video/BV16L4y1V76m/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 
@@ -116,14 +123,18 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [Harvard CS50](https://www.bilibili.com/video/BV1b54y127q4/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Caltech Learning From Data](https://www.bilibili.com/video/BV1rZ4y1o7aS/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Stanford Algorithms - by Tim Roughgarden](https://www.bilibili.com/video/BV1BC4y1h7AH/?spm_id_from=333.788.recommend_more_video.5&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Game Theory online](https://www.bilibili.com/video/BV1ft411U72N/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Game Theory online 2](https://www.bilibili.com/video/BV1pk4y1R71R/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390). I am putting Game theory under CS, but really game theory is an interdisciplinary topic closely related to math, CS, statistics, engineering, economics.
 
-
-## Others
+## Other tools and links
 - [MIT OCW](https://ocw.mit.edu)
 - [Coursera](https://www.coursera.org)
 - [khan Academy](https://www.khanacademy.org)
-- [Game Theory online](https://www.bilibili.com/video/BV1ft411U72N/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
-- [Game Theory online 2](https://www.bilibili.com/video/BV1pk4y1R71R/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [What's new: Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao](https://terrytao.wordpress.com)
+- [Desmos](https://www.desmos.com)
+- [Geogebra](https://www.geogebra.org)
+- [The On-Line Encyclopedia of Integer Sequences](https://oeis.org)
+
 
 **Last but not least, learn to find rescources of your own!!**
 
