@@ -51,6 +51,7 @@
 - [PHYSICS-Pohl’s introduction to physics. Vol2 Electrodynamics and optics by Luders K., Pohl R.O.pdf](https://pan.baidu.com/s/1g3IrMXwq27FECGfpAcCBcQ?pwd=h66r)
 - [PHYSICS-The Theoretical Minimum What You Need to Know to Start Doing Physics by Leonard Susskind, George Hrabovsky.pdf](https://pan.baidu.com/s/1e8XJ8Ro4yV7ALRHvna6Hlg?pwd=w35c)
 - [PHYSICS-conceptual physics.pdf](https://pan.baidu.com/s/1_wYgSO0eXa0JRmMR1ENDrg?pwd=rivr)
+- [PHYSICS-Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
 
 
 **Open Courses**
