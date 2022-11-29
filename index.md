@@ -89,6 +89,7 @@
 ## Others
 - [MIT OCW](https://ocw.mit.edu)
 - [Coursera](https://www.coursera.org)
+- [khan Academy](https://www.khanacademy.org)
 - [Game Theory online](https://www.bilibili.com/video/BV1ft411U72N/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Game Theory online 2](https://www.bilibili.com/video/BV1pk4y1R71R/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 
