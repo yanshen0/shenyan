@@ -4,7 +4,7 @@
 
 
 # Resources for BHSFIC STEM self-learning group:
-This webpage contains links to books and lectures and other resources on Math/Physics/Computer Science that I deem approporite, or reasonably challenging for motivated high school students. Updated regularly by a math teacher at BHSFIC.
+This webpage contains links to books and lectures and other resources on Math/Physics/Computer Science that I deem appropriate, or reasonably challenging for motivated high school students. Updated regularly by a math teacher at BHSFIC.
 ## Math
 **Textbooks on Calculus**: 
 - [MATH-A course of pure mathematics](https://pan.baidu.com/s/1W27aJDOGEp686yw442l2vg?pwd=cfyv)
