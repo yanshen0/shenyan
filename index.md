@@ -4,7 +4,12 @@
 
 
 # Resources for BHSFIC STEM self-learning group:
-This webpage contains links to books and lectures and other resources on Math/Physics/Computer Science that I deem appropriate, or reasonably challenging for motivated high school students. Updated regularly by a math teacher at BHSFIC.
+This webpage contains links to books and lectures and other resources on Math/Physics/Computer Science/etc... that I deem appropriate, or reasonably challenging for motivated high school students. Also some resources provided by students on all areas of STEM. Updated regularly by a math teacher at BHSFIC. 
+1. [Math](#math)
+2. [Physics](#physics)
+3. [Computer Science](#computer-science)
+4. [Biology](#biology)
+
 ## Math
 **Textbooks on Calculus**: 
 - [MATH-A course of pure mathematics](https://pan.baidu.com/s/1W27aJDOGEp686yw442l2vg?pwd=cfyv)
@@ -125,6 +130,10 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [Stanford Algorithms - by Tim Roughgarden](https://www.bilibili.com/video/BV1BC4y1h7AH/?spm_id_from=333.788.recommend_more_video.5&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Game Theory online](https://www.bilibili.com/video/BV1ft411U72N/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Game Theory online 2](https://www.bilibili.com/video/BV1pk4y1R71R/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390). I am putting Game theory under CS, but really game theory is an interdisciplinary topic closely related to math, CS, statistics, engineering, economics.
+
+## Biology
+[Hosa Materials](https://pan.baidu.com/s/1aO5QNfmMIApXSXL81S11IQ?pwd=sgzs)
+
 
 ## Other tools and links
 - [MIT OCW](https://ocw.mit.edu)
