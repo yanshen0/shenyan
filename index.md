@@ -15,6 +15,7 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 - [MATH-A course of pure mathematics](https://pan.baidu.com/s/1W27aJDOGEp686yw442l2vg?pwd=cfyv)
 - [MATH-Calculus spivak.pdf](https://pan.baidu.com/s/1LH85kntZbZM7LsE8HADWcQ?pwd=vqx2)
 - [MATH-Princeton Lifesaver Study Guide-The Calculus Lifesaver_ All the Tools You Need to Excel at Calculus.pdf](https://pan.baidu.com/s/1nK8oyOkHkZleGBHmh7OiSA?pwd=1aua)
+- [MATH-Active calculus](https://activecalculus.org)
 - [MATH-Modeling Life. The Mathematics of Biological Systems.pdf](https://pan.baidu.com/s/1T9HezFReWzqx8OGVVWOxcA?pwd=mrek). Introduces how to use calculus to model biological systems.
 
 **Books that help you understand calculus**:
@@ -26,6 +27,7 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 - [MATH-Discourses on Algebra by Igor R. Shafarevich.pdf](https://pan.baidu.com/s/1t5DB_PPjUEfo1mAvPwWI9A?pwd=9m3k).
 - [MATH-Numbers and Geometry.pdf](https://pan.baidu.com/s/147aiyNm2RhGheRr5hfB2Ug?pwd=ep4y).
 - [MATH-Elements of Algebra_Geometry, Numbers, Equations.pdf](https://pan.baidu.com/s/1Xhbg4r51gANx2lEaaT4UvQ?pwd=c24w).
+- [MATH-Abstract Algebra: Theory and Application](http://abstract.ups.edu)
 
 _Discourses on Algebra_ and _Numbers and Geometry_ are very similar: they both introduce high school algebra and prepare you for learning more advanced topics in algebra, such as field and ring. _Elements of Algebra_Geometry, Numbers, Equations_ is an amazing book on Galois theory built upon previous two books.
 
@@ -33,9 +35,15 @@ _Discourses on Algebra_ and _Numbers and Geometry_ are very similar: they both i
 - [MATH-No Bullshit Guide to Linear Algebra.pdf](https://pan.baidu.com/s/1LbUqoGSUnSxNotKRNa7pdw?pwd=2y4a)
 - [MATH-Linear Algebra Done Right Sheldon Axler](https://pan.baidu.com/s/15p44HUIpxP3AiBRJUtdmEA?pwd=cq54)
 
+**Number Theory**
+- [MATH-Number Theory: In Context and Interactive](https://math.gordon.edu/ntic/index.html)
+
+
 **Probability**
 - [MATH-The Pleasures of Probability.pdf](https://pan.baidu.com/s/1dCIFMQNKxKgmueHXLvpF_Q?pwd=94ve). Introduces probability through fun examples.
 - [A Collection of Dice Problems](https://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf). Fun probability problems involving dice.
+- [MATH-Step by step probability](https://sbsprobability.com)
+- [MATH-Probability, Statistics, and Random Processes](https://www.probabilitycourse.com)
 
 **A Mathematical Gift** 
 _A Mathematical Gift 1-3_ are based on a series of lectures developed by Kyoto University for local high school students in 1993-1994.
@@ -75,6 +83,12 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 - [UC Berkeley MATH H54 Honors Linear Algebra and Differential Equation](https://www.bilibili.com/video/BV17a4y1W7QC/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.bilibili.com/video/BV1wd4y117dV/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 18.100A Real Analysis](https://www.bilibili.com/video/BV1vv4y1u7ze/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+
+**Notes**
+- [Applied Mathematics E-Notes](https://www.math.nthu.edu.tw/~amen/)
+- [Stanford crypto notes](https://crypto.stanford.edu/pbc/notes/)
+- [AMS Open Math Notes](https://www.ams.org/open-math-notes)
+- [nLab](https://ncatlab.org/nlab/show/HomePage)
 
 ## Physics
 **Calculus-Based general physics**
@@ -139,6 +153,7 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [MIT OCW](https://ocw.mit.edu)
 - [Coursera](https://www.coursera.org)
 - [khan Academy](https://www.khanacademy.org)
+- [Brilliant](https://brilliant.org/home/) 
 - [What's new: Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao](https://terrytao.wordpress.com)
 - [Desmos](https://www.desmos.com)
 - [Geogebra](https://www.geogebra.org)
