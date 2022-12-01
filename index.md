@@ -20,6 +20,7 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 
 **Books that help you understand calculus**:
 - [MATH-How to think about analysis.pdf](https://pan.baidu.com/s/1v9lgRlR2Gj1B1U87FwByBA?pwd=iwgi). This is a book explaining many concepts that you will encounter in calculus or mathematical analysis. It's not a textbook, and very easy to understand.
+- [MATH-Counterexamples in calculus.pdf](https://pan.baidu.com/s/1Q514hYySWwbQLK9sfZIPkA?pwd=nqcx)
 - [MATH-The Calculus Gallery_ Masterpieces from Newton to Lebesgue.pdf](https://pan.baidu.com/s/1V53aW-gh30Mj_YByvSot0Q?pwd=y583). This is a book on the historical development of calculus and mathematical analysis.
 - [MATH-Infinite Powers How Calculus Reveals the Secrets of the Universe by Steven H. Strogatz.pdf](https://pan.baidu.com/s/1lxr6_YBuNi3q9VLAul_3_A?pwd=5fcs). This is a book on how calculus affect our everyday life.
 
