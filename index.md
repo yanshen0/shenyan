@@ -61,14 +61,18 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 - [MATH-An excursion through elementary mathematics, Vol.3 by Caminha Muniz Neto A.pdf](https://pan.baidu.com/s/18TusMeFoihMkXQjpAiswJQ?pwd=ir7m)
 
 
-**Miscellaneous**
+**Inequalities**
 - [MATH-An introduction to the art of mathematical inequalities: the Cauchy-Schwartz master class](https://pan.baidu.com/s/1PI4k3KVaU1hIJbApIYmMLw?pwd=nyic).
 - [MATH-Inequalities Korovkin](https://pan.baidu.com/s/15M67OtalnRoTPCmKz_PzVw?pwd=26n2)
 - [MATH-Algebraic Inequalities New Vistas](https://pan.baidu.com/s/1Oh3ZDJQVOr68x6xYa_kkSA?pwd=u8i9)
-- [MATH-Elements of Mathematics_ A Problem-Centered Approach to History and Foundations.pdf](https://pan.baidu.com/s/1DoQrIkCLFh_p_QR8HwzGbQ?pwd=3fkh). Introduces high school math topic from an advanced math perspective.
+
+
+**Miscellaneous**
 - [MATH-Mathematical Proofs. A Transition to Advanced Mathematics.pdf](https://pan.baidu.com/s/1RqzYiLZUrayON7V-4ISU3A?pwd=mrj3). Introduces how to read and write mathematical proofs. Help you tansition from "lower math" to "higher math".
 - [MATH-Mathematics and Its History_ A Concise Edition.pdf](https://pan.baidu.com/s/1ZuUmT5vKw1ODqaiERJ0QWA?pwd=jabd). Introduces math history while still learning math. 
+- [MATH-God Created The Integers_ The Mathematical Breakthroughs that Changed History](https://pan.baidu.com/s/1E0cICkQcs7K0zyd0Timqsw?pwd=f4dy)
 - [MATH-Elements of Mathematics_ From Euclid to Gödel.pdf](https://pan.baidu.com/s/1u65k21ZuBZgAJ4Y8YK-8VA?pwd=2una). Introduces many areas of mathematics, fun to read.
+- [MATH-Elements of Mathematics_ A Problem-Centered Approach to History and Foundations.pdf](https://pan.baidu.com/s/1DoQrIkCLFh_p_QR8HwzGbQ?pwd=3fkh). Introduces high school math topic from an advanced math perspective.
 - [MATH-An Infinitely Large Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf). This is a project by a math major at MIT, Evan Chen, aimed at making higher math accessible to high school students. Very comprehensive and advanced.
 
 
@@ -128,6 +132,7 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [MIT 8.333 Statistical Mechanics I](https://www.bilibili.com/video/BV1z5411m7n5/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.334 Statistical Mechanics II](https://www.bilibili.com/video/BV16L4y1V76m/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 
+
 ## Computer Science
 **Books**
 - [CS-Algorithms-JeffE.pdf](https://pan.baidu.com/s/1rDmwjT-4zhqBH1FSeu2rPQ?pwd=x9k5)
@@ -135,6 +140,7 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [CS-Barron's AP Computer Science A. 9th.pdf](https://pan.baidu.com/s/1HcH6JDc68j65DEVDxdn--g?pwd=ygi2)
 - [CS-Code_The Hidden Language of Computer Hardware and Software.pdf](https://pan.baidu.com/s/1r-cC245CQ34qNxAq7A8xXw?pwd=ndbu)
 - [CS-Grokking Algorithms_ An Illustrated Guide for Programmers and Other Curious People.pdf](https://pan.baidu.com/s/1zbYG8mJwhvJ9yrpO5Tdd5w?pwd=ft5t)
+- [CS-A Common-Sense Guide to Data Structures and Algorithms_ Level Up Your Core Programming Skills.pdf](https://pan.baidu.com/s/1A4ov9JppaSmaKp-gFigTGg?pwd=wxwx)
 - [CS-Introduction to Algorithms-CLRS.pdf](https://pan.baidu.com/s/11e9tQdDjYqO5M5AERmEbkA?pwd=61ev)
 
 
