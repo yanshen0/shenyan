@@ -100,6 +100,7 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 **Calculus-Based general physics**
 - [PHYSICS-Matter and Interactions Vol1&2.pdf](https://pan.baidu.com/s/10DVsNSDwty0szqSNob0xHg?pwd=fgqw). This is a comprehensive book on general physics, more than 1000 pages. 
 - [PHYSICS-No bullshit guide to math and physics by Ivan Savov.pdf](https://pan.baidu.com/s/188mQ60vaANfa-44LuEqc2w?pwd=nt5b). Introduces Newtonian mechanics and calculus along the way.
+- [PHYSICS-Fundamentals of Physics 11th Edition](https://pan.baidu.com/s/1hpeuNojhfeAbVk3ZWsTNWw?pwd=f98k)
 - [PHYSICS-Pohl’s introduction to physics. Vol.1 Mechanics, acoustics and thermodynamics by Luders K., Pohl R.O.pdf](https://pan.baidu.com/s/1PURSUTNbw2V6qJbkSnDh9g?pwd=q7i9)
 - [PHYSICS-Pohl’s introduction to physics. Vol2 Electrodynamics and optics by Luders K., Pohl R.O.pdf](https://pan.baidu.com/s/1g3IrMXwq27FECGfpAcCBcQ?pwd=h66r)
 - [PHYSICS-Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
