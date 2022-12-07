@@ -68,6 +68,7 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 
 
 **Miscellaneous**
+- [MATH-Mathematics For Human Flourishing.pdf](https://pan.baidu.com/s/1PxaWhRt2hpVjHBg1GMpGMg?pwd=38x1)
 - [MATH-Mathematical Proofs. A Transition to Advanced Mathematics.pdf](https://pan.baidu.com/s/1RqzYiLZUrayON7V-4ISU3A?pwd=mrj3). Introduces how to read and write mathematical proofs. Help you tansition from "lower math" to "higher math".
 - [MATH-Mathematics and Its History_ A Concise Edition.pdf](https://pan.baidu.com/s/1ZuUmT5vKw1ODqaiERJ0QWA?pwd=jabd). Introduces math history while still learning math. 
 - [MATH-God Created The Integers_ The Mathematical Breakthroughs that Changed History](https://pan.baidu.com/s/1E0cICkQcs7K0zyd0Timqsw?pwd=f4dy)
