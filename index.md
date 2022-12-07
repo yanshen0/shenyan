@@ -163,11 +163,12 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [Coursera](https://www.coursera.org)
 - [khan Academy](https://www.khanacademy.org)
 - [Brilliant](https://brilliant.org/home/) 
-- [What's new: Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao](https://terrytao.wordpress.com)
 - [Desmos](https://www.desmos.com)
 - [Geogebra](https://www.geogebra.org)
+- [Overleaf](https://www.overleaf.com/)
+- [arXiv](https://arxiv.org/)
 - [The On-Line Encyclopedia of Integer Sequences](https://oeis.org)
-
+- [What's new: Updates on my research and expository papers, discussion of open problems, and other maths-related topics. By Terence Tao](https://terrytao.wordpress.com)
 
 **Last but not least, learn to find rescources of your own!!**
 
