@@ -8,7 +8,9 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 1. [Math](#math)
 2. [Physics](#physics)
 3. [Computer Science](#computer-science)
-4. [Biology](#biology)
+4. [Chemistry](#chemistry)
+5. [Biology](#biology)
+6. [Economics](#economics)
 
 ## Math
 **Textbooks on Calculus**: 
@@ -86,6 +88,7 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 - [Fat Chance: Probability from the Ground Up by Harvard and Edx](https://www.bilibili.com/video/BV1qs411A75n/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Harvard stat110 Probability](https://www.bilibili.com/video/BV1Cb4y1R7EG/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.bilibili.com/video/BV1fx411d7DX/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 18.6501x Fundamentals of Statistics](https://www.bilibili.com/video/BV1af4y1K7TE/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [UC Berkeley MATH H54 Honors Linear Algebra and Differential Equation](https://www.bilibili.com/video/BV17a4y1W7QC/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.bilibili.com/video/BV1wd4y117dV/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Stanford ENGR108/EE103/CME103 Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares](https://www.bilibili.com/video/BV17h411W7bk/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
@@ -120,6 +123,7 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 
 
 **Open Courses**
+- [Yale PHYS200-201 Fundamentals of Physics](https://www.bilibili.com/video/BV1Qy4y187u1/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.01 Mechanics](https://www.bilibili.com/video/BV147411o71v/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.02 Electricity&Magnetism](https://www.bilibili.com/video/BV16m4y1w7P8/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.01 Mechanics Walter Lewin](https://www.bilibili.com/video/BV1ut411B7s6/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
@@ -134,6 +138,40 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [MIT 8.333 Statistical Mechanics I](https://www.bilibili.com/video/BV1z5411m7n5/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.334 Statistical Mechanics II](https://www.bilibili.com/video/BV16L4y1V76m/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 
+
+## Chemistry
+- [UCI CHEM1A General Chemistry](https://www.bilibili.com/video/BV1Wb411K7E2/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [UCI CHEM1B General Chemistry](https://www.bilibili.com/video/BV1Bb411K7ti/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [UCI CHEM1C General Chemistry](https://www.bilibili.com/video/BV19b411K7ZN/?spm_id_from=333.337.search-card.all.click)
+- [MIT 5.111 Principles of Chemical Science](https://www.bilibili.com/video/BV1R4411Y74Q/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 5.61 Physical Chemistry](https://www.bilibili.com/video/BV1nt411J7Wp/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Yale Freshman Organic Chemistry](https://www.bilibili.com/video/BV1yv411C7V9/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [UCI CHEM 51A, Organic Chemistry](https://www.bilibili.com/video/BV1yb411L7yv/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [UCI CHEM 51B, Organic Chemistry](https://www.bilibili.com/video/BV1ib411L7vV/?spm_id_from=333.337.search-card.all.click)
+- [UCI CHEM 51C, Organic Chemistry](https://www.bilibili.com/video/BV1Rb411L7Bt/?spm_id_from=333.337.search-card.all.click)
+- [MIT 5.07SC Biological Chemistry I](https://www.bilibili.com/video/BV1st411j72b/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 5.08J Biological Chemistry II](https://www.bilibili.com/video/BV1Wf4y1D7n6/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+
+## Biology
+- [Hosa Materials](https://pan.baidu.com/s/1aO5QNfmMIApXSXL81S11IQ?pwd=sgzs)
+- [生物学概念与途径 饶毅](https://www.bilibili.com/video/BV1sW411e7gm/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 7.00X Introduction to Biology](https://www.bilibili.com/video/BV1Yt4y127jN/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [The University of British Columbia, Useful Genetics part 1](https://www.bilibili.com/video/BV14b411x7jQ/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [The University of British Columbia, Useful Genetics part 2](https://www.bilibili.com/video/BV11b411x721/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Harvard Fundamentals of Neuroscience part 1](https://www.bilibili.com/video/BV1ZW411k7VU/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Harvard Fundamentals of Neuroscience part 2](https://www.bilibili.com/video/BV1Ut411x7B3/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Harvard Fundamentals of Neuroscience part 3](https://www.bilibili.com/video/BV1Kt411t7NL/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [University of Southampton PSYC 2025 Introduction to Cognitive Neuroscience](https://www.bilibili.com/video/BV1qq4y1D77J/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 7.28X Molecular Biology part 1](https://www.bilibili.com/video/BV1Lx411H71y/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 7.28X Molecular Biology part 2](https://www.bilibili.com/video/BV1Xx411J7bJ/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 7.28X Molecular Biology part 3](https://www.bilibili.com/video/BV1Jx411u7J6/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Harvard MCB63X Principles of Biochemistry](https://www.bilibili.com/video/BV1Kt411W7JK/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 7.05x Biochemistry: Biomolecules, Methods, and Mechanisms](https://www.bilibili.com/video/BV1St411h7tU/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Rice University Fundamentals of Immunology part 1](https://www.bilibili.com/video/BV1kb411875J/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Rice University Fundamentals of Immunology part 2](https://www.bilibili.com/video/BV1dQ4y1r7Sp/?spm_id_from=333.999.0.0&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Rice University Fundamentals of Immunology part 3](https://www.bilibili.com/video/BV1SJ411X7YB/?spm_id_from=333.999.0.0)
+- [Rice University Fundamentals of Immunology part 4](https://www.bilibili.com/video/BV1Zb4y127WD/?spm_id_from=333.999.0.0)
+<!-- - [MIT 7.01SC Fundamentals of Biology](https://www.bilibili.com/video/BV1ft411A7aX/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)-->
 
 ## Computer Science
 **Books**
@@ -154,12 +192,17 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [Harvard CS50](https://www.bilibili.com/video/BV1b54y127q4/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Caltech Learning From Data](https://www.bilibili.com/video/BV1rZ4y1o7aS/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Stanford Algorithms - by Tim Roughgarden](https://www.bilibili.com/video/BV1BC4y1h7AH/?spm_id_from=333.788.recommend_more_video.5&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+
+
+## Economics
+- [MIT 14.01 Principles of Microeconomics](https://www.bilibili.com/video/BV1MV411U75D/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT MIT 14.772 Development Economics: Macroeconomics](https://www.bilibili.com/video/BV12q4y1B7wm/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Cardiff University BS1652 Macroeconomics](https://www.bilibili.com/video/BV1MK4y1Q7dp/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 14.13 Psychology and Economics](https://www.bilibili.com/video/BV1v3411C7T8/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Harvard Econ 2450A：Public Economics](https://www.bilibili.com/video/BV1NZ4y1P7nC/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 15.401, Finance Theory](https://www.bilibili.com/video/BV1Ft4112796/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Game Theory online](https://www.bilibili.com/video/BV1ft411U72N/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
-- [Game Theory online 2](https://www.bilibili.com/video/BV1pk4y1R71R/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390). I am putting Game theory under CS, but really game theory is an interdisciplinary topic closely related to math, CS, statistics, engineering, economics.
-
-## Biology
-[Hosa Materials](https://pan.baidu.com/s/1aO5QNfmMIApXSXL81S11IQ?pwd=sgzs)
-
+- [Game Theory online 2](https://www.bilibili.com/video/BV1pk4y1R71R/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390).
 
 ## Other tools and links
 - [MIT OCW](https://ocw.mit.edu)
