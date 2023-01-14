@@ -97,11 +97,12 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 - [Stanford ENGR108/EE103/CME103 Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares](https://www.bilibili.com/video/BV17h411W7bk/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 18.100A Real Analysis](https://www.bilibili.com/video/BV1vv4y1u7ze/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 
-**Notes**
+**Notes and Websites**
 - [Applied Mathematics E-Notes](https://www.math.nthu.edu.tw/~amen/)
 - [Stanford crypto notes](https://crypto.stanford.edu/pbc/notes/)
 - [AMS Open Math Notes](https://www.ams.org/open-math-notes)
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
+- [Thatsmath](https://thatsmaths.com)
 
 ## Physics
 **Calculus-Based general physics**
