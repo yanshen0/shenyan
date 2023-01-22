@@ -86,7 +86,7 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 - [MIT Highlights of Calculus Gilbert Strang](https://www.bilibili.com/video/BV1gJ411q7Ji/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Elementary Number Theory](https://www.bilibili.com/video/BV1VQ4y1D771/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 18.06 Linear Algebra](https://www.bilibili.com/video/BV1at411d79w/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
-- [Linear Algebra Done Right by Sheldon Axler](https://www.bilibili.com/video/BV1MW411h7ek/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [Linear Algebra Done Right by Sheldon Axler](https://www.bilibili.com/video/av63561127/?vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 6.042J/18.062J Mathematics for Computer Science(Discrete Math)](https://www.bilibili.com/video/BV1V7411W7ex/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Fat Chance: Probability from the Ground Up by Harvard and Edx](https://www.bilibili.com/video/BV1qs411A75n/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [Harvard stat110 Probability](https://www.bilibili.com/video/BV1Cb4y1R7EG/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
