@@ -36,6 +36,7 @@ _Discourses on Algebra_ and _Numbers and Geometry_ are very similar: they both i
 
 **Linear Algebra**
 - [MATH-No Bullshit Guide to Linear Algebra.pdf](https://pan.baidu.com/s/1LbUqoGSUnSxNotKRNa7pdw?pwd=2y4a)
+- [MATH-Introduction to Linear and Matrix Algebra](https://pan.baidu.com/s/1n2X9454wqwiWMNtqJGQAqw?pwd=psvc)
 - [MATH-Linear Algebra Done Right Sheldon Axler](https://pan.baidu.com/s/15p44HUIpxP3AiBRJUtdmEA?pwd=cq54)
 
 **Number Theory**
