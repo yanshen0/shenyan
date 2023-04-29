@@ -116,7 +116,7 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 
 **Classical Mechanics**
 Classical mechanics was developed after Newtonian mechanics, discarding the concept of force and use instead energy and momentum. Classical mechanics is the foundation of almost all of modern physics.
-
+- [PHYSICS-Introduction to Classical Mechanics.pdf](https://pan.baidu.com/s/1L6keHnlk-mIrQIlroriImQ?pwd=36q2)
 - [PHYSICS-Classical Mechanics Goldstein.pdf](https://pan.baidu.com/s/1xF6KDvHtTF95ModaDxFQRg?pwd=gb52)
 - [PHYSICS-No-Nonsense Classical Mechanics A Student-Friendly Introduction.pdf](https://pan.baidu.com/s/1aMMLSnTb8n6CtjhJcnyMow?pwd=xefa)
 
