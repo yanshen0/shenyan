@@ -192,6 +192,7 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 
 **Open Courses**
 - [MIT 6.00.1x Introduction to computer science and programming using python](https://www.bilibili.com/video/BV1zf4y1Z7zF/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.bilibili.com/video/BV1Tm4y187f9/)
 - [MIT 6.046J Design and Analysis of Algorithms](https://www.bilibili.com/video/BV1jP4y127jj/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 6.S095 Programming for the Puzzled](https://www.bilibili.com/video/BV1rT4y1K7HU/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT The Missing Semester](https://www.bilibili.com/video/BV1rU4y1h7Qr/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
