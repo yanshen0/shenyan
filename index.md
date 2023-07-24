@@ -3,7 +3,7 @@
 --->
 
 
-# Resources for BHSFIC STEM self-learning group:
+# Resources for STEM learning:
 This webpage contains links to books and lectures and other resources on Math/Physics/Computer Science/etc... that I deem appropriate, or reasonably challenging for motivated high school students. Also some resources provided by students on all areas of STEM. Updated regularly by a math teacher at BHSFIC. 
 1. [Math](#math)
 2. [Physics](#physics)
@@ -20,6 +20,9 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 - [MATH-Modeling Life. The Mathematics of Biological Systems.pdf](https://pan.baidu.com/s/1T9HezFReWzqx8OGVVWOxcA?pwd=mrek). Introduces how to use calculus to model biological systems.
 - [MATH-A course of pure mathematics](https://pan.baidu.com/s/1W27aJDOGEp686yw442l2vg?pwd=cfyv)
 - [MATH-Calculus spivak.pdf](https://pan.baidu.com/s/1LH85kntZbZM7LsE8HADWcQ?pwd=vqx2)
+- [MATH-Calculus Vol1 openstax](https://openstax.org/details/books/calculus-volume-1)
+- [MATH-Calculus Vol2 openstax](https://openstax.org/details/books/calculus-volume-2)
+- [MATH-Calculus Vol3 openstax](https://openstax.org/details/books/calculus-volume-3)
 
 **Books that help you understand calculus**:
 - [MATH-How to think about analysis.pdf](https://pan.baidu.com/s/1v9lgRlR2Gj1B1U87FwByBA?pwd=iwgi). This is a book explaining many concepts that you will encounter in calculus or mathematical analysis. It's not a textbook, and very easy to understand.
