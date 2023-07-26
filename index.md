@@ -15,8 +15,9 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 ## Math
 **Textbooks on Calculus**: 
 - [MATH-Princeton Lifesaver Study Guide-The Calculus Lifesaver_ All the Tools You Need to Excel at Calculus.pdf](https://pan.baidu.com/s/1nK8oyOkHkZleGBHmh7OiSA?pwd=1aua)
-- [MATH-Active calculus](https://activecalculus.org)
 - [MATH-Apex calculus](http://www.apexcalculus.com/)
+- [MATH-CLP calculus textbooks](https://personal.math.ubc.ca/~CLP/)
+- [MATH-Active calculus](https://activecalculus.org)
 - [MATH-Modeling Life. The Mathematics of Biological Systems.pdf](https://pan.baidu.com/s/1T9HezFReWzqx8OGVVWOxcA?pwd=mrek). Introduces how to use calculus to model biological systems.
 - [MATH-A course of pure mathematics](https://pan.baidu.com/s/1W27aJDOGEp686yw442l2vg?pwd=cfyv)
 - [MATH-Calculus spivak.pdf](https://pan.baidu.com/s/1LH85kntZbZM7LsE8HADWcQ?pwd=vqx2)
