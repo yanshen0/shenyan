@@ -193,6 +193,7 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [CS-Grokking Algorithms_ An Illustrated Guide for Programmers and Other Curious People.pdf](https://pan.baidu.com/s/1zbYG8mJwhvJ9yrpO5Tdd5w?pwd=ft5t)
 - [CS-A Common-Sense Guide to Data Structures and Algorithms_ Level Up Your Core Programming Skills.pdf](https://pan.baidu.com/s/1A4ov9JppaSmaKp-gFigTGg?pwd=wxwx)
 - [CS-Introduction to Algorithms-CLRS.pdf](https://pan.baidu.com/s/11e9tQdDjYqO5M5AERmEbkA?pwd=61ev)
+- [Scientific Python Lectures](https://lectures.scientific-python.org)
 
 
 **Open Courses**
