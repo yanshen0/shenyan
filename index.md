@@ -24,6 +24,7 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 - [MATH-Calculus Vol1 openstax](https://openstax.org/details/books/calculus-volume-1)
 - [MATH-Calculus Vol2 openstax](https://openstax.org/details/books/calculus-volume-2)
 - [MATH-Calculus Vol3 openstax](https://openstax.org/details/books/calculus-volume-3)
+- [MATH-Vector Calculus, Linear Algebra, and Differential Forms A Unified Approach](https://pan.baidu.com/s/1UH4B6cBiVNPSZt43H5V6Ww?pwd=ij8n)
 
 **Books that help you understand calculus**:
 - [MATH-How to think about analysis.pdf](https://pan.baidu.com/s/1v9lgRlR2Gj1B1U87FwByBA?pwd=iwgi). This is a book explaining many concepts that you will encounter in calculus or mathematical analysis. It's not a textbook, and very easy to understand.
