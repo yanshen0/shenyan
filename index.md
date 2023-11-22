@@ -87,6 +87,9 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 - [MATH-Elements of Mathematics_ From Euclid to Gödel.pdf](https://pan.baidu.com/s/1u65k21ZuBZgAJ4Y8YK-8VA?pwd=2una). Introduces many areas of mathematics, fun to read.
 - [MATH-Elements of Mathematics_ A Problem-Centered Approach to History and Foundations.pdf](https://pan.baidu.com/s/1DoQrIkCLFh_p_QR8HwzGbQ?pwd=3fkh). Introduces high school math topic from an advanced math perspective.
 - [MATH-An Infinitely Large Napkin by Evan Chen](https://venhance.github.io/napkin/Napkin.pdf). This is a project by a math major at MIT, Evan Chen, aimed at making higher math accessible to high school students. Very comprehensive and advanced.
+- [MATH-What is mathematics](https://pan.baidu.com/s/1NtHzQhRREtMfMBnWMNdDIg?pwd=3rsm)
+- [MATH-Yearning for the impossible](https://pan.baidu.com/s/1GY5lkWwuMg8pmkPSR0NPMQ?pwd=49y3)
+- [MATH-The story of proof: logic and history of mathematics](https://pan.baidu.com/s/1WLGOUdbC3TH-ncuNg9PULA?pwd=pkxp)
 
 
 **Open Courses**
