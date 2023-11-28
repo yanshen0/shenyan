@@ -20,12 +20,14 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 - [MATH-Active calculus](https://activecalculus.org)
 - [MATH-Modeling Life. The Mathematics of Biological Systems.pdf](https://pan.baidu.com/s/1T9HezFReWzqx8OGVVWOxcA?pwd=mrek). Introduces how to use calculus to model biological systems.
 - [MATH-A course of pure mathematics](https://pan.baidu.com/s/1W27aJDOGEp686yw442l2vg?pwd=cfyv)
-- [MATH-Calculus spivak.pdf](https://pan.baidu.com/s/1LH85kntZbZM7LsE8HADWcQ?pwd=vqx2)
 - [MATH-Calculus Vol1 openstax](https://openstax.org/details/books/calculus-volume-1)
 - [MATH-Calculus Vol2 openstax](https://openstax.org/details/books/calculus-volume-2)
 - [MATH-Calculus Vol3 openstax](https://openstax.org/details/books/calculus-volume-3)
 - [MATH-Vector Calculus, Linear Algebra, and Differential Forms A Unified Approach](https://pan.baidu.com/s/1UH4B6cBiVNPSZt43H5V6Ww?pwd=ij8n)
 - [MATH-Second Year Calculus From Celestial Mechanics to Special Relativity](https://pan.baidu.com/s/1CAwGmtdT_S9kCC8L6I_H-w?pwd=a9ue)
+<!---
+- [MATH-Calculus spivak.pdf](https://pan.baidu.com/s/1LH85kntZbZM7LsE8HADWcQ?pwd=vqx2)
+--->
 
 **Books that help you understand calculus**:
 - [MATH-How to think about analysis.pdf](https://pan.baidu.com/s/1v9lgRlR2Gj1B1U87FwByBA?pwd=iwgi). This is a book explaining many concepts that you will encounter in calculus or mathematical analysis. It's not a textbook, and very easy to understand.
