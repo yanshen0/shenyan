@@ -94,6 +94,7 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 - [MATH-What is mathematics](https://pan.baidu.com/s/1NtHzQhRREtMfMBnWMNdDIg?pwd=3rsm)
 - [MATH-Yearning for the impossible](https://pan.baidu.com/s/1GY5lkWwuMg8pmkPSR0NPMQ?pwd=49y3)
 - [MATH-The story of proof: logic and history of mathematics](https://pan.baidu.com/s/1WLGOUdbC3TH-ncuNg9PULA?pwd=pkxp)
+- [MATH-Concepts of modern mathematics](https://pan.baidu.com/s/11udEnJtNjpXPpyWSwufx6w?pwd=kc3e)
 
 
 **Open Courses**
