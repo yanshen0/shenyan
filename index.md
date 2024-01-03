@@ -46,6 +46,7 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 _Discourses on Algebra_ and _Numbers and Geometry_ are very similar: they both introduce high school algebra and prepare you for learning more advanced topics in algebra, such as field and ring. _Elements of Algebra_Geometry, Numbers, Equations_ is an amazing book on Galois theory built upon previous two books.
 
 **Linear Algebra**
+- [MATH-Square matrices of order 2](https://pan.baidu.com/s/1WAx-b9qscmli5vmuTQzbww?pwd=9dn2)
 - [MATH-No Bullshit Guide to Linear Algebra.pdf](https://pan.baidu.com/s/1LbUqoGSUnSxNotKRNa7pdw?pwd=2y4a)
 - [MATH-Introduction to linear algebra 5th edition.pdf](https://pan.baidu.com/s/1VnNDpxPF9ywh9JLaGlvYyw?pwd=vbz9)
 - [MATH-Introduction to Linear and Matrix Algebra](https://pan.baidu.com/s/1n2X9454wqwiWMNtqJGQAqw?pwd=psvc)
