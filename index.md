@@ -82,6 +82,10 @@ _An Excursion Through Elementary Mathematics 1-3_ introduces elementary mathemat
 - [MATH-Inequalities Korovkin](https://pan.baidu.com/s/15M67OtalnRoTPCmKz_PzVw?pwd=26n2)
 - [MATH-Algebraic Inequalities New Vistas](https://pan.baidu.com/s/1Oh3ZDJQVOr68x6xYa_kkSA?pwd=u8i9)
 
+**Mathematical Thinking: Problem-Solving and Proofs**
+- [Mathematical Thinking: Problem-Solving and Proofs](https://pan.baidu.com/s/1HUWN8TsW18S-dlw9LHamYg?pwd=c5a8)
+- [Mathematical Thinking: Problem-Solving and Proofs Solutions](https://pan.baidu.com/s/1pP1k4nrjnoLlu6h6RlT9Kg?pwd=6a5b)
+
 
 **Miscellaneous**
 - [MATH-Mathematics For Human Flourishing.pdf](https://pan.baidu.com/s/1PxaWhRt2hpVjHBg1GMpGMg?pwd=38x1)
