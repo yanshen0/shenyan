@@ -54,6 +54,7 @@ _Discourses on Algebra_ and _Numbers and Geometry_ are very similar: they both i
 
 **Number Theory**
 - [MATH-Number Theory: In Context and Interactive](https://math.gordon.edu/ntic/index.html)
+- [MATH-Elementary Number Theory: Primes, Congruences, and Secrets](https://www.wstein.org/ent/ent.pdf)
 - [MATH-Online number theory lecture notes and teaching materials](http://www.numbertheory.org/ntw/lecture_notes.html)
 
 
