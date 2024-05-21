@@ -43,6 +43,7 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 - [MATH-Numbers and Geometry.pdf](https://pan.baidu.com/s/147aiyNm2RhGheRr5hfB2Ug?pwd=ep4y).
 - [MATH-Elements of Algebra_Geometry, Numbers, Equations.pdf](https://pan.baidu.com/s/1Xhbg4r51gANx2lEaaT4UvQ?pwd=c24w).
 - [MATH-Abstract Algebra: Theory and Application](http://abstract.ups.edu)
+- [MATH-Abel's theorem in problems and solutions based on the lectures of professor V.I. Arnold](https://pan.baidu.com/s/1IamhkjNC9_6GepzqCLEK4A?pwd=8ep3)
 
 _Discourses on Algebra_ and _Numbers and Geometry_ are very similar: they both introduce high school algebra and prepare you for learning more advanced topics in algebra, such as field and ring. _Elements of Algebra_Geometry, Numbers, Equations_ is an amazing book on Galois theory built upon previous two books.
 
