@@ -207,6 +207,7 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 
 ## Computer Science
 **Books**
+- [CS-Guide to Competitive Programming_ Learning and Improving Algorithms Through Contests](https://pan.baidu.com/s/1r1R1lco1mVmfucGOANVIqw?pwd=ie29)
 - [CS-Algorithms-JeffE.pdf](https://pan.baidu.com/s/1rDmwjT-4zhqBH1FSeu2rPQ?pwd=x9k5)
 - [CS-Algorithms.pdf](https://pan.baidu.com/s/1OYhLM3efnHMvXn8jLoQAjQ?pwd=rfe4)
 - [CS-Barron's AP Computer Science A. 9th.pdf](https://pan.baidu.com/s/1HcH6JDc68j65DEVDxdn--g?pwd=ygi2)
@@ -239,6 +240,7 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 - [Game Theory online 2](https://www.bilibili.com/video/BV1pk4y1R71R/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390).
 
 ## Other tools and links
+- [GitHub](https://github.com/)
 - [MIT OCW](https://ocw.mit.edu)
 - [Coursera](https://www.coursera.org)
 - [khan Academy](https://www.khanacademy.org)
