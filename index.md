@@ -50,6 +50,7 @@ _Discourses on Algebra_ and _Numbers and Geometry_ are very similar: they both i
 **Linear Algebra**
 - [MATH-Square matrices of order 2](https://pan.baidu.com/s/1WAx-b9qscmli5vmuTQzbww?pwd=9dn2)
 - [MATH-No Bullshit Guide to Linear Algebra.pdf](https://pan.baidu.com/s/1LbUqoGSUnSxNotKRNa7pdw?pwd=2y4a)
+- [MATH-Linear Algebra Hefferon](https://pan.baidu.com/s/1ml1V7ukVFqEijecU0JIaEQ?pwd=qyax)
 - [MATH-Introduction to linear algebra 5th edition.pdf](https://pan.baidu.com/s/1VnNDpxPF9ywh9JLaGlvYyw?pwd=vbz9)
 - [MATH-Introduction to Linear and Matrix Algebra](https://pan.baidu.com/s/1n2X9454wqwiWMNtqJGQAqw?pwd=psvc)
 - [MATH-Linear Algebra Done Right Sheldon Axler](https://pan.baidu.com/s/15p44HUIpxP3AiBRJUtdmEA?pwd=cq54)
