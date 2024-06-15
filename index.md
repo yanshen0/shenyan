@@ -26,6 +26,8 @@ This webpage contains links to books and lectures and other resources on Math/Ph
 - [MATH-Vector Calculus, Linear Algebra, and Differential Forms A Unified Approach](https://pan.baidu.com/s/1UH4B6cBiVNPSZt43H5V6Ww?pwd=ij8n)
 - [MATH-Second Year Calculus From Celestial Mechanics to Special Relativity](https://pan.baidu.com/s/1CAwGmtdT_S9kCC8L6I_H-w?pwd=a9ue)
 - [MATH-Calculus and Analysis in Euclidean Space](https://pan.baidu.com/s/192Kd7YZG9gJvkHTru6Y50Q?pwd=ic2n)
+- [MATH-Calculus Apostol Vol1 single-variable](https://pan.baidu.com/s/1QPG-W6_cZGPhRf5HI2h3MQ?pwd=ns35)
+- [MATH-Calculus Apostol Vol2 multi-variable](https://pan.baidu.com/s/1SYbNw4QOA9R5O3QgDg3J3Q?pwd=7cvq)
 
   
 <!---
