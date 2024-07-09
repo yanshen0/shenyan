@@ -159,7 +159,9 @@ Classical mechanics was developed after Newtonian mechanics, discarding the conc
 **Open Courses**
 - [Yale PHYS200-201 Fundamentals of Physics](https://www.bilibili.com/video/BV1Qy4y187u1/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.01 Mechanics](https://www.bilibili.com/video/BV147411o71v/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
-- [MIT 8.02 Electricity&Magnetism](https://www.bilibili.com/video/BV16m4y1w7P8/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 8.02.1x Electricity&Magnetism](https://www.bilibili.com/video/BV16m4y1w7P8/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 8.02.2x Electricity&Magnetism](https://www.bilibili.com/video/BV1C14y1j7QT/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
+- [MIT 8.02.3x Electricity&Magnetism](https://www.bilibili.com/video/BV1bP4y1U7D4/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.01 Mechanics Walter Lewin](https://www.bilibili.com/video/BV1ut411B7s6/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [MIT 8.02 Electricity&Magnetism Walter Lewin](https://www.bilibili.com/video/BV1Z4411i7DM/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
 - [ICTP Classical Mechanics](https://www.bilibili.com/video/BV1yL4y1G7xP/?spm_id_from=333.337.search-card.all.click&vd_source=def5f3f6e383f2ae35b2413420ce1390)
